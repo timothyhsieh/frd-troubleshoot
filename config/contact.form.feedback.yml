@@ -1,0 +1,14 @@
+uuid: 437ea2bb-2c73-4d8f-aeae-72198642c25b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - git@seamonsters.org
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
